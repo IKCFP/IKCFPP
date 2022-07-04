@@ -10,7 +10,7 @@
 <meta name="viewport"
 	content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>IKcar | 線上營養師</title>
+<title>IKcare | 線上營養師</title>
 <meta name="referrer" content="no-referrer-when-downgrade">
 <meta name="description" property="og:description"
 	itemprop="description" content="紀錄飲食，線上營養諮詢。" />
